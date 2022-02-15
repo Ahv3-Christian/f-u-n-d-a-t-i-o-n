@@ -2,7 +2,7 @@
 	"name": "theme-fundation",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#0a0b0e",
+		"editor.background": "#101216",
 
 		//parentesis Llaves
 		"editor.foreground": "#ecfab9",
