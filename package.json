@@ -1,0 +1,32 @@
+{
+    "name": "theme-fundation",
+    "displayName": "theme fundation",
+    "description": "dark",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "f u n d a t i on",
+                "uiTheme": "vs-dark",
+                "path": "./themes/azimov9 theme-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icons/azimov9.png",
+    "author": {
+        "name": "Ahv3-Christian",
+        "email": "3avliy@gmail.com"
+
+    },
+    "repository": {
+        "url": "https://github.com/Ahv3-Christian/theme-azimov9-vs.git",
+        "type": "git"
+    },
+    "publisher": "f-u-n-d-a-t-i-o-n"
+}
